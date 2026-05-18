@@ -1,0 +1,70 @@
+"filename", "language", "JSON", "TypeScript", "JSON with Comments", "Markdown", "JavaScript", "TypeScript JSX", "PostCSS", "XML", "HTML", "Docker", "YAML", "Python", "pip requirements", "comment", "blank", "total"
+"c:\Users\HP\Documents\projects\tracker\SPEC.md", "Markdown", 0, 0, 0, 1022, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 124, 1146
+"c:\Users\HP\Documents\projects\tracker\backend\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 6, 14
+"c:\Users\HP\Documents\projects\tracker\backend\app\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\HP\Documents\projects\tracker\backend\app\config.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 5, 10, 33
+"c:\Users\HP\Documents\projects\tracker\backend\app\database.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 5, 18
+"c:\Users\HP\Documents\projects\tracker\backend\app\main.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41, 0, 0, 11, 52
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 3
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\achievement.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 13, 44
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\chat.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 5, 17
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\fitness.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 0, 0, 9, 33
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\goal.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 5, 21
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\habit.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 0, 9, 34
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\learning.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 9, 36
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\mission.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 5, 25
+"c:\Users\HP\Documents\projects\tracker\backend\app\models\user.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 9, 47
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\analytics.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 94, 0, 0, 21, 115
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\auth.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 20, 97
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\chat.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 18, 85
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\fitness.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 16, 83
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\gamification.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 74, 0, 0, 14, 88
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\goals.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 109, 0, 0, 21, 130
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\habits.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 142, 0, 0, 30, 172
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\missions.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 134, 0, 0, 27, 161
+"c:\Users\HP\Documents\projects\tracker\backend\app\routers\users.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 13, 63
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\auth.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 6, 17
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\common.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 7, 23
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\goal.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 0, 0, 11, 39
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\habit.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 0, 0, 12, 41
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\mission.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 9, 39
+"c:\Users\HP\Documents\projects\tracker\backend\app\schemas\user.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 0, 0, 20, 60
+"c:\Users\HP\Documents\projects\tracker\backend\app\security.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 14, 61
+"c:\Users\HP\Documents\projects\tracker\backend\app\utils\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\HP\Documents\projects\tracker\backend\app\utils\constants.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 7, 55
+"c:\Users\HP\Documents\projects\tracker\backend\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 13
+"c:\Users\HP\Documents\projects\tracker\docker-compose.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58, 0, 0, 0, 5, 63
+"c:\Users\HP\Documents\projects\tracker\frontend\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 5, 12
+"c:\Users\HP\Documents\projects\tracker\frontend\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 16
+"c:\Users\HP\Documents\projects\tracker\frontend\package.json", "JSON", 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43
+"c:\Users\HP\Documents\projects\tracker\frontend\postcss.config.js", "JavaScript", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6
+"c:\Users\HP\Documents\projects\tracker\frontend\public\favicon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"c:\Users\HP\Documents\projects\tracker\frontend\src\App.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 2, 45
+"c:\Users\HP\Documents\projects\tracker\frontend\src\components\layout\Header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 5, 51
+"c:\Users\HP\Documents\projects\tracker\frontend\src\components\layout\Layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"c:\Users\HP\Documents\projects\tracker\frontend\src\components\layout\Sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 3, 53
+"c:\Users\HP\Documents\projects\tracker\frontend\src\components\ui\Button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 3, 36
+"c:\Users\HP\Documents\projects\tracker\frontend\src\components\ui\Card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 6, 41
+"c:\Users\HP\Documents\projects\tracker\frontend\src\components\ui\Input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 3, 23
+"c:\Users\HP\Documents\projects\tracker\frontend\src\index.css", "PostCSS", 0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 19, 95
+"c:\Users\HP\Documents\projects\tracker\frontend\src\main.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Chat.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 9, 126
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Dashboard.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 136, 0, 0, 0, 0, 0, 0, 0, 0, 12, 148
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Goals.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 176, 0, 0, 0, 0, 0, 0, 0, 0, 15, 191
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Habits.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 180, 0, 0, 0, 0, 0, 0, 0, 0, 13, 193
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Landing.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 7, 87
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Login.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 97, 0, 0, 0, 0, 0, 0, 0, 0, 13, 110
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Missions.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 174, 0, 0, 0, 0, 0, 0, 0, 0, 12, 186
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Profile.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 176, 0, 0, 0, 0, 0, 0, 0, 0, 12, 188
+"c:\Users\HP\Documents\projects\tracker\frontend\src\pages\Register.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 114, 0, 0, 0, 0, 0, 0, 0, 0, 16, 130
+"c:\Users\HP\Documents\projects\tracker\frontend\src\services\api.ts", "TypeScript", 0, 95, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 111
+"c:\Users\HP\Documents\projects\tracker\frontend\src\store\authStore.ts", "TypeScript", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"c:\Users\HP\Documents\projects\tracker\frontend\src\types\index.ts", "TypeScript", 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 108
+"c:\Users\HP\Documents\projects\tracker\frontend\src\utils\cn.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\HP\Documents\projects\tracker\frontend\tailwind.config.js", "JavaScript", 0, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 68
+"c:\Users\HP\Documents\projects\tracker\frontend\tsconfig.json", "JSON with Comments", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25
+"c:\Users\HP\Documents\projects\tracker\frontend\tsconfig.node.json", "JSON", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11
+"c:\Users\HP\Documents\projects\tracker\frontend\vite.config.ts", "TypeScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 22
+"Total", "-", 54, 243, 25, 1022, 73, 1517, 76, 4, 16, 15, 58, 1330, 13, 6, 683, 5135

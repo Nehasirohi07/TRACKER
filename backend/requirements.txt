@@ -1,0 +1,31 @@
+# fastapi>=0.104.1,<0.200.0
+# uvicorn[standard]>=0.24.0,<1.0.0
+# sqlalchemy>=2.0.23,<3.0.0
+# psycopg[binary]>=3.2.6,<4.0.0
+# pydantic>=2.5.0,<3.0.0
+# pydantic-settings>=2.1.0,<3.0.0
+# python-jose[cryptography]>=3.3.0,<4.0.0
+# passlib[bcrypt]>=1.7.4,<2.0.0
+# bcrypt>=3.1.0,<4.0.0
+# python-multipart>=0.0.6,<1.0.0
+# alembic>=1.13.0,<2.0.0
+# redis>=5.0.1,<6.0.0
+# litellm>=1.50.0,<2.0.0
+# httpx>=0.25.2,<1.0.0
+# email-validator>=2.1.0,<3.0.0
+# sse-starlette>=1.8.2,<2.0.0
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+python-multipart
+alembic
+redis
+litellm
+httpx
+email-validator
+sse-starlette
